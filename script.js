@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     coffeeBtn.addEventListener("click", () => {
 
         window.open(
-            "https://buymeacoffee.com/",
+            "https://buymeacoffee.com/raj.soni",
             "_blank"
         );
 
